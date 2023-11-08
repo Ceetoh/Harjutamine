@@ -1,3 +1,10 @@
 Github on koht kus saab jagada koodi ja projekte.
 Kasutavad enamus programeerijad
 Ma saan kasutada GitHubi kodus ja koolis edasi. Saan kasutada GitHubi harjutamiseks.
+GitHubi asutasid 	
+Tom Preston-Werner
+Chris Wanstrath
+P. J. Hyett
+Scott Chacon
+Aasta 2008 asutati GitHub.
+Kasutada said GitHubi aastal 2008
